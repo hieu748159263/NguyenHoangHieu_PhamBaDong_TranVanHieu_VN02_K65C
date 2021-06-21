@@ -40,10 +40,10 @@ void main()
         } while (flag == 0);
     } while (dem <= 52);
     // In ket qua chia bai:
-    for (int a = 0; a <= 3; a++)
+    for (a = 0; a <= 3; a++)
     {
         printf("Nguoi choi %d: ", a+1);
-        for (int b = 0; b <= 12; b++)
+        for (b = 0; b <= 12; b++)
         {
             i = chiabai[a][b]/4; j = chiabai[a][b] %4;
             inKetQua1(i), inKetQua2(j);
@@ -53,16 +53,16 @@ void main()
     printf("\n");
     // Tim tu quy:
     int checkTuQuy[13][4] = {}, coTuQuy = 0;
-    for (int a = 0; a <= 3; a++)
+    for (a = 0; a <= 3; a++)
     {
-        for (int b = 0; b <= 12; b++)
+        for (b = 0; b <= 12; b++)
         {
             i = chiabai[a][b] /4; 
             j = chiabai[a][b] %4;
             checkTuQuy[i][j] = a;
         }
     }
-    for (int i = 0; i <= 12; i++)
+    for (i = 0; i <= 12; i++)
     {
         j = 0;
         if (checkTuQuy[i][j] == checkTuQuy[i][j+1])
