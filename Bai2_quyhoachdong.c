@@ -62,7 +62,7 @@ int main(){
 	}
 	while(w>=min){
 		for(int i=0;i<N;i++){
-			if(w>Bag[i].g&&b[w]==(b[w-Bag[i].g]+Bag[i].v)){
+			if(w>=Bag[i].g&&b[w]==(b[w-Bag[i].g]+Bag[i].v)){
 				z[i]++;
 				w-=Bag[i].g;
 				break;
