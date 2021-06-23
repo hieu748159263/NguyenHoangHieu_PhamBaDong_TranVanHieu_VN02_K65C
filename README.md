@@ -2,7 +2,7 @@
 
 ### Bài 1
 
-TOHOP.INP | TOHOP.OUT| 
+TOHOP.INP | TOHOP.OUT
 --- | --- 
 9 5 | 126 |
 15 6 | 5005 |
