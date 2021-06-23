@@ -65,14 +65,9 @@ int main(){
 	    }
 	    soluong[i]=dem;
 	}
-	printf("%d\n",(int)(V));
 	fprintf(out,"%d\n",(int)(V));
 	for(int i=0;i<N;i++){
 		if(soluong[i]>0)
-		{
-			fprintf(out,"%s %d\n",Bag[i].name,soluong[i]);
-			printf("%s %d\n",Bag[i].name,soluong[i]);
-		}
-		
+		fprintf(out,"%s %d\n",Bag[i].name,soluong[i]);
 	}
 }

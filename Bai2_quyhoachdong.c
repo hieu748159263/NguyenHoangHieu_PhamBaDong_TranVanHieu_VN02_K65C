@@ -69,11 +69,9 @@ int main(){
 			}
 		}
 	}
-	printf("%.0f\n",b[W]);
 	fprintf(out,"%.0f\n",b[W]);
     for(int i=0;i<N;i++){
     	if(z[i]>0){
-			printf("%s %d\n",Bag[i].name,z[i]);
     		fprintf(out,"%s %d\n",Bag[i].name,z[i]);
 		}
 	}
