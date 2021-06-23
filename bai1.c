@@ -20,7 +20,6 @@ int main()
             i++;
             j--;
         }
-        printf("%d\n", res);
         fprintf(out,"%d\n", res);
     }
 }
