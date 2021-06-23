@@ -17,7 +17,7 @@ TOHOP.INP | TOHOP.OUT|
 
 ### Bài 2
 
-BAG.INP | KẾT QUẢ| 
+BAG.INP | Kết quả| 
 --- | --- | 
 5 60 | 144
 7 17 A | A 8
@@ -26,7 +26,7 @@ BAG.INP | KẾT QUẢ|
 4 5 D |
 1 2 E |
 
-BAG.INP | KẾT QUẢ| 
+BAG.INP | Kết quả| 
 --- | --- | 
 5 62| 152
 14 22 A|B 6
@@ -35,7 +35,7 @@ BAG.INP | KẾT QUẢ|
 4 6 D
 8 15 E
 
-BAG.INP | KẾT QUẢ| 
+BAG.INP | Kết quả| 
 --- | --- | 
 4 20|40
 2 3 A|B 1
