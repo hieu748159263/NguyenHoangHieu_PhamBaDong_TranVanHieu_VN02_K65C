@@ -1,15 +1,26 @@
 #include <stdio.h>
 
-void main()
+int main()
 {
-    int n,k; scanf("%d %d", &n, &k);
-    unsigned long long res = 1;
-    int i = 1, j = n;
-    while (i < n-k+1 && j > k)
+    FILE *inp = fopen("TOHOP.INP", "r");
+    if (inp == NULL)
     {
-        res = res*j/i;
-        i++;
-        j--;
+        printf("File khong ton tai!");
+        return 0;
     }
-    printf("%d", res);
+    FILE *out = fopen("TOHOP.OUT", "w");
+    int n,k;
+    while (fscanf(inp,"%d %d ", &n, &k) != EOF)
+    {
+        unsigned long long res = 1;
+        int i = 1, j = n;
+        while (i < n-k+1 && j > k)
+        {
+            res = res*j/i;
+            i++;
+            j--;
+        }
+        printf("%d\n", res);
+        fprintf(out,"%d\n", res);
+    }
 }
