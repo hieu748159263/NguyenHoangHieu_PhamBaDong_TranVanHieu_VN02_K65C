@@ -1,0 +1,13 @@
+Tim sinh vien co ten "Hieu":
+
+Sinh vien: Nguyen Hoang Hieu
+Diem :9.50
+
+Sinh vien: Tran Van Hieu
+Diem :8.50
+
+------------------------------------
+Tim sinh vien co ten "Z":
+
+Khong ton tai sinh vien!
+------------------------------------
