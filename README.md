@@ -66,7 +66,9 @@ Output 1: <br /><br />
 Output 2: <br /><br />
 <img src="https://user-images.githubusercontent.com/81409248/124221093-37b9d600-db29-11eb-9f6f-6309874784cd.png" width="90%"></img> 
 
-
+////
+- Phần đầu thì giới thiệu thành viên trong nhóm này xong phân cong
+- Vào các bài cụ thể thì có thể trình bày bài này làm gì, ý tưởng thuật toán, mẫu test, v.v..
 
 
 
