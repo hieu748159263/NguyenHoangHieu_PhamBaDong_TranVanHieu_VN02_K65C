@@ -21,7 +21,15 @@ TOHOP.INP | TOHOP.OUT|
 ### Mục tiêu
 Tìm cách lựa chọn các đồ vật đựng vào balô sao cho tổng trọng lượng không vượt quá số cho trước và tổng giá trị là lớn nhất.
 ### Thuật toán
-
+#### Quy hoạch động :
+Thuật toán quy hoạch động được thực hiện theo công thức F(j) = max{F(j-weight[i])+point[i]},trong đó j là khối lượng balo có thể đựng,weight[i] là khối lượng của vật có chỉ số i có giá trị là point[i].
+Sau đó sẽ truy vết số lượng đồ vật ở trong balo theo công thức F(w) == F(w-weight[i]) + point[i].
+#### Tham lam :
+Thuật toán tham lam sẽ dựa trên điểm của mỗi vật theo công thức value = weight/point,trong đó value chính là điểm của mỗi đò vật,weight và point chính là khối lượng và giá trị của vật đó.
+Đầu tiên ta sẽ thực hiện với vât có điểm cao nhất,giả sử là vật A có điểm là B.
+Nếu vật A có khối lượng vượt qua balo thì ta sẽ xét đến vật có điểm cao nhất ngoài A.
+Nếu vật A có khối lượng nhỏ hơn khối lượng balo,ta sẽ cho vật A vào balo và giảm khối lượng tối đa balo đựng được theo khối lượng vật A.
+Cứ làm tương tự như vậy đến khi ko thể thực hiện được nữa.
 ### Mô tả các mẫu test
 BAG.INP | Kết quả| 
 --- | --- | 
@@ -53,8 +61,7 @@ BAG.INP | Kết quả|
 ### Mục tiêu:
 Viết chương trình quản lý sinh viên gồm các tính năng xem danh sách SV, nhập tên SV, tìm SV theo tên và thoát chương trình.
 ### Thuật toán
-/// Quy hoạch động :
-
+///
 ## Bài 4: Chương trình chia bài tiến lên cho 4 người
 ### Mục tiêu:
 In ra màn hình kết quả gồm: các lá mà mỗi người chơi có và các tứ quý người chơi sở hữu.
