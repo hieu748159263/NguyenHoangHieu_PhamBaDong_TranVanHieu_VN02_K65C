@@ -61,8 +61,8 @@ In ra màn hình kết quả gồm: các lá mà mỗi người chơi có và c�
 ### Thuật toán
 ///
 ### Output
-/// Ảnh 1
-/// Ảnh 2
+<img src="https://user-images.githubusercontent.com/81409248/124221090-3688a900-db29-11eb-848a-76061ef95dcd.png" width="90%"></img> 
+<img src="https://user-images.githubusercontent.com/81409248/124221093-37b9d600-db29-11eb-9f6f-6309874784cd.png" width="90%"></img> 
 
 
 
