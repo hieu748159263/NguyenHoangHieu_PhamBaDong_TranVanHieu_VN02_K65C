@@ -51,7 +51,7 @@ BAG.INP | Kết quả|
 
 ## Bài 3: Chương trình quản lý sinh viên
 ### Mục tiêu:
-Viết chương trình quản lý sinh viên gồm các tính năng xem danh sách SV, nhập tên SV và tìm SV theo tên.
+Viết chương trình quản lý sinh viên gồm các tính năng xem danh sách SV, nhập tên SV, tìm SV theo tên và thoát chương trình.
 ### Thuật toán
 ///
 
@@ -60,8 +60,10 @@ Viết chương trình quản lý sinh viên gồm các tính năng xem danh sá
 In ra màn hình kết quả gồm: các lá mà mỗi người chơi có và các tứ quý người chơi sở hữu.
 ### Thuật toán
 ///
-### Output
-<img src="https://user-images.githubusercontent.com/81409248/124221090-3688a900-db29-11eb-848a-76061ef95dcd.png" width="90%"></img> 
+### Kết quả
+Output 1: <br /><br />
+<img src="https://user-images.githubusercontent.com/81409248/124221090-3688a900-db29-11eb-848a-76061ef95dcd.png" width="90%"></img> <br /><br />
+Output 2: <br /><br />
 <img src="https://user-images.githubusercontent.com/81409248/124221093-37b9d600-db29-11eb-9f6f-6309874784cd.png" width="90%"></img> 
 
 
