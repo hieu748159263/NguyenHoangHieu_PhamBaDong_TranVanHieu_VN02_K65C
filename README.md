@@ -1,7 +1,10 @@
-# Bài tập lớn môn C Programming Introduction
+# Bài tập lớn môn C Programming Introduction nhóm 2
 
-Thành viên: /// <br />
-Phân công: ///
+Thành viên: Nguyễn Hoàng Hiếu, Phạm Bá Đồng, Trần Văn Hiếu <br />
+Phân công: 
+- Nguyễn Hoàng Hiếu: Bài 4 + soạn file readme
+- Phạm Bá Đồng: Bài 2
+- Trần Văn Hiếu: Bài 1, 3
 ## Bài 1
 ### Mục tiêu
 Tính tổ hợp chập k của n, dữ liệu đọc từ file TOHOP.INP và ghi kết quả ra file TOHOP.OUT.
