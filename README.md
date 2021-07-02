@@ -61,12 +61,12 @@ BAG.INP | Kết quả|
 ### Mục tiêu:
 Viết chương trình quản lý sinh viên gồm các tính năng xem danh sách SV, nhập tên SV, tìm SV theo tên và thoát chương trình.
 ### Thuật toán
-///
+
 ## Bài 4: Chương trình chia bài tiến lên cho 4 người
 ### Mục tiêu:
 In ra màn hình kết quả gồm: các lá mà mỗi người chơi có và các tứ quý người chơi sở hữu.
 ### Thuật toán
-/// 
+
 ### Kết quả
 Output 1: <br /><br />
 <img src="https://user-images.githubusercontent.com/81409248/124221090-3688a900-db29-11eb-848a-76061ef95dcd.png" width="90%"></img> <br /><br />
