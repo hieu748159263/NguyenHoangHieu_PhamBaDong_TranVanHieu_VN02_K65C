@@ -1,7 +1,7 @@
 # Bài tập lớn môn C Programming Introduction nhóm 2
 
 Thành viên: Nguyễn Hoàng Hiếu, Phạm Bá Đồng, Trần Văn Hiếu <br />
-Phân công: 
+Phân công:
 - Nguyễn Hoàng Hiếu: Bài 4 + soạn file readme
 - Phạm Bá Đồng: Bài 2
 - Trần Văn Hiếu: Bài 1, 3
@@ -63,12 +63,19 @@ BAG.INP | Kết quả|
 1 1 D|
 
 ## Bài 3: Chương trình quản lý sinh viên
-### Mục tiêu:
+### Mục tiêu
 Viết chương trình quản lý sinh viên gồm các tính năng xem danh sách SV, nhập tên SV, tìm SV theo tên và thoát chương trình.
-### Thuật toán
-///
+### Kết quả
+Chức năng 1: Xem danh sách SV <br />
+<img src="https://user-images.githubusercontent.com/81409248/124285947-a40ff600-db78-11eb-9960-a25a0f343c37.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/81409248/124285952-a5412300-db78-11eb-8731-ccffb6e1e3d0.png" width="45%"> <br /><br />
+Chức năng 2: Nhập tên SV <br />
+</img> <img src="https://user-images.githubusercontent.com/81409248/124285956-a5d9b980-db78-11eb-8d19-73e0d1980e24.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/81409248/124285961-a70ae680-db78-11eb-980b-7adf1fcea9cf.png" width="45%"> <br /><br />
+Chức năng 3: Tìm SV theo tên <br />
+</img> <img src="https://user-images.githubusercontent.com/81409248/124285966-a7a37d00-db78-11eb-9cae-6b9c6baaf12c.png" width="45%"></img> <img src="https://user-images.githubusercontent.com/81409248/124285975-a96d4080-db78-11eb-96a5-3ac2af260803.png" width="45%"> <br /><br />
+Chức năng 4: Thoát chương trình <br />
+</img> <img src="https://user-images.githubusercontent.com/81409248/124285981-ab370400-db78-11eb-954f-a8f93826fc32.png" width="45%"></img> 
 ## Bài 4: Chương trình chia bài tiến lên cho 4 người
-### Mục tiêu:
+### Mục tiêu
 In ra màn hình kết quả gồm: các lá mà mỗi người chơi có và các tứ quý người chơi sở hữu.
 ### Thuật toán
 #### 1. Chia bài
